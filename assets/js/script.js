@@ -29,7 +29,7 @@ hari.innerHTML = `${dayID()}, ${tgl} ${monthID()} ${year}`
 jam.innerHTML = `${hour}:${minutes}`
 
 // Dirubah 
-const pengirim = "Juyeon";
+const pengirim = "Anraki Meru";
 const pesan = `Pada akhirnya kita berdua menjadi dua orang penjahat: Kamu yang dengan hebatnya bisa mencuri hatiku, begitu juga aku yang berhasil mencuri hatimu`;
 
 if (pengirim) {
