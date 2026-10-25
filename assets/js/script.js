@@ -30,7 +30,7 @@ jam.innerHTML = `${hour}:${minutes}`
 
 // Dirubah 
 const pengirim = "Anraki Meru";
-const pesan = `And now that you've read all the reasons why I love you, I hope you know that I mean every single word. I'm so glad life brought me to you, sweetheart, and if I could do it all over again, I'd still choose you every time. So, I think it's time we make this official, don't you think? I'd love to call you mine and make more memories with you. If you're up for it, I'd love to hear your answer, mi amor 🤍`;
+const pesan = `And now that you've read all the reasons why I love you, I hope you know that I mean every single word. I'm so glad life brought me to you, sweetheart, and if I could do it all over again, I'd still choose you every time. So, I think it's time we make this official, don't you think? I'd love to call you mine and make more memories with you. If you're up for it, I'd love to hear your answer`;
 
 if (pengirim) {
   nama.innerHTML = pengirim;
